@@ -1,0 +1,18 @@
+[InternetShortcut]
+URL=https://github.com/josserden/demo-html-css/blob/blended-01/.prettierrc.json
+IDList=
+HotKey=0
+IconFile=C:\Users\tatja\AppData\Local\Mozilla\Firefox\Profiles\pk20p2yb.default-release\shortcutCache\28XwyZQG4HuRLgCMtiHb9A==.ico
+IconIndex=0
+{
+  "printWidth": 100,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "avoid",
+  "proseWrap": "always"
+}
